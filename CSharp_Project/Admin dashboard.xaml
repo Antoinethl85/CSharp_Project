@@ -1,0 +1,64 @@
+﻿<Window x:Class="CSharp_Project.Admin_dashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:CSharp_Project"
+        mc:Ignorable="d"
+        Title="Admin_dashboard" Height="600" Width="1300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="350" />
+            <RowDefinition Height="150" />
+            <RowDefinition Height="25" />
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50" />
+            <ColumnDefinition Width="400" />
+            <ColumnDefinition Width="400" />
+            <ColumnDefinition Width="400" />
+            <ColumnDefinition Width="50" />
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel Grid.Row="1" Grid.Column="2">
+            <TextBlock Name="dashboard_title">Your dashboard</TextBlock>
+        </StackPanel>
+        
+        <StackPanel Grid.Row="2" Grid.Column="1">
+            <TextBlock>clientUsername</TextBlock>
+            <TextBox/>
+            
+            <TextBlock>clientPassword</TextBlock>
+            <TextBox/>
+            
+            <TextBlock>?</TextBlock>
+            <TextBox/>
+            
+            <Button Click="ButtonAdd">Add new client</Button>
+        </StackPanel>
+        
+        <ListBox Grid.Row="2" Grid.Column="2" x:Name="clientList" />
+        
+        <StackPanel Grid.Row="2" Grid.Column="3">
+            <TextBlock>Select a client id</TextBlock>
+            <TextBox/>
+            <TextBlock></TextBlock>
+            <TextBlock></TextBlock>
+            
+            <Button Click="ButtonAdd">Delete client</Button>
+            <TextBlock></TextBlock>
+            <Button Click="ButtonAdd">Unblock client</Button>
+            <TextBlock></TextBlock>
+            <Button Click="ButtonAdd">Block client</Button>
+            <TextBlock></TextBlock>
+            <Button Click="ButtonAdd">Reset tries</Button>
+        </StackPanel>
+        
+        <StackPanel Grid.Column="2" Grid.Row="3">
+            <ListBox></ListBox>
+        </StackPanel>
+    </Grid>
+</Window>

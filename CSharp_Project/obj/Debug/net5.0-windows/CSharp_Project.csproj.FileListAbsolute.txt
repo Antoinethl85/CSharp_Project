@@ -1,0 +1,30 @@
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\bin\Debug\net5.0-windows\CSharp_Project.exe
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\bin\Debug\net5.0-windows\CSharp_Project.deps.json
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\bin\Debug\net5.0-windows\CSharp_Project.runtimeconfig.json
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\bin\Debug\net5.0-windows\CSharp_Project.runtimeconfig.dev.json
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\bin\Debug\net5.0-windows\CSharp_Project.dll
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\bin\Debug\net5.0-windows\ref\CSharp_Project.dll
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\bin\Debug\net5.0-windows\CSharp_Project.pdb
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\CSharp_Project.csproj.AssemblyReference.cache
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\Admin.g.cs
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\Client.g.cs
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\CSharp_Project_MarkupCompile.cache
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\CSharp_Project_MarkupCompile.lref
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\Admin.baml
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\Client.baml
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\CSharp_Project.g.resources
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\CSharp_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\CSharp_Project.AssemblyInfoInputs.cache
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\CSharp_Project.AssemblyInfo.cs
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\CSharp_Project.csproj.CoreCompileInputs.cache
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\CSharp_Project.dll
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\ref\CSharp_Project.dll
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\CSharp_Project.pdb
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\CSharp_Project.genruntimeconfig.cache
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\Admin dashboard.g.cs
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\Admin dashboard.baml
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Moi\RiderProjects\CSharp_Project\CSharp_Project\obj\Debug\net5.0-windows\CSharp_Project.csproj.CopyComplete

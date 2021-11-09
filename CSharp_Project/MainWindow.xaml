@@ -1,0 +1,38 @@
+﻿<Window x:Class="CSharp_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSharp_Project"
+        mc:Ignorable="d"
+        Title="CAT bank" Height="600" Width="1200">
+    <Grid x:Name="MainGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200" />
+            <RowDefinition Height="100" />
+            <RowDefinition Height="25" />
+            <RowDefinition Height="100" />
+            <RowDefinition Height="75" />
+            <RowDefinition Height="50" />
+
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="250" />
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <TextBlock Name="TextBlock">Welcome to<LineBreak/>
+                CAT BANK
+            </TextBlock>
+        </StackPanel>
+        
+        <StackPanel Grid.Row="4" Grid.Column="1">
+            <Button Click="ButtonGoAdmin">You are the admin.</Button>
+            <TextBlock>  </TextBlock>
+            <Button Click="ButtonGoClient">You are a client.</Button>
+        </StackPanel>
+    </Grid>
+</Window>
